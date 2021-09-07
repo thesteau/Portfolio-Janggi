@@ -15,7 +15,7 @@ The main methods to play during your game turn is the following:
 game.make_move('a4', 'a5')
 game.show_game()
 ```
-Gameplay Notes:
+##### Gameplay Notes:
 - Game turns are based on the piece selected between player ```RED``` and ```BLUE```.
 - Each valid move executed will then alternate the turn. 
   - Otherwise, the player must select a valid piece to make a valid move.
