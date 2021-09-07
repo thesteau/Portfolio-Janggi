@@ -20,8 +20,8 @@ game.show_game()
 - Each valid move executed will then alternate the turn. 
   - Otherwise, the player must select a valid piece and make a valid move.
 - Game ends when a checkmate is achieved
-- Please see the ```Excel``` file for initial board positioning.
-- Please see a Janggi playing guide for piece and movement details.
+- Please see the ```Excel``` file for the initial board positioning.
+- Please see a Janggi playing guide for the piece and movement explaination.
   - EG: Horse Piece movements and Checkmate conditions
 
 ## Program Structure
