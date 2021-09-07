@@ -3,6 +3,7 @@
 # Description: A Janggi chess game playable between two players.
 from game_files import game as jg
 
+
 def main():
     """ Sample starting game with preset moves."""
     # Base game sample checker
