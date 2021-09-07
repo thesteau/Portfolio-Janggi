@@ -21,7 +21,7 @@ game.show_game()
   - Otherwise, the player must select a valid piece and make a valid move.
 - Game ends when a checkmate is achieved
 - Please see the ```Excel``` file for the initial board positioning.
-- Please see a Janggi playing guide for the piece and movement explaination.
+- Please see a Janggi playing guide for the piece and movement explanation.
   - EG: Horse Piece movements and Checkmate conditions
 
 ## Program Structure
