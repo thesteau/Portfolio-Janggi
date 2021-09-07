@@ -1,5 +1,6 @@
 import unittest
-from JanggiGame import JanggiGame
+from game_files.game import JanggiGame
+#from JanggiGame import JanggiGame
 
 class TestJanggiGame(unittest.TestCase):
     def setUp(self):
