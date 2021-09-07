@@ -18,7 +18,7 @@ game.show_game()
 ## Gameplay Notes
 - Game turns are based on the piece selected between player ```RED``` and ```BLUE```.
 - Each valid move executed will then alternate the turn. 
-  - Otherwise, the player must select a valid piece to make a valid move.
+  - Otherwise, the player must select a valid piece and make a valid move.
 - Game ends when a checkmate is achieved
 - Please see the ```Excel``` file for initial board positioning.
 - Please see a Janggi playing guide for piece and movement details.
