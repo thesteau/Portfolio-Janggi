@@ -32,7 +32,7 @@ portfolio-janggi/
     ├─ __init__.py
     ├─ board.py     # Handles the gameboard logic
     ├─ game.py      # Handles the gameplay logic
-    └─ pieces.py    # Handles the valid pieces and piece logic.
+    └─ pieces.py    # Handles the valid pieces and piece logic
 ```
 
 ## Sample Game Interface
